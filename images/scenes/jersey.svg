@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+  <rect width="640" height="640" fill="#140e0b"/>
+  <rect x="28" y="28" width="584" height="584" rx="40" fill="#e0b15c"/>
+  <rect x="46" y="46" width="548" height="548" rx="30" fill="#3d2b22"/>
+  
+    <path d="M220 170 L270 140 H370 L420 170 L460 240 L400 270 V470 H240 V270 L180 240 Z" fill="#a33b2b"/>
+    <path d="M270 140 Q320 190 370 140" fill="#f3e6d0"/>
+    <text x="320" y="360" text-anchor="middle" font-size="92" font-family="Georgia, serif" fill="#f3e6d0">10</text>
+  
+</svg>
